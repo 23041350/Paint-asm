@@ -1,4 +1,4 @@
-# PaintOk.asm – Paint básico para DOS en modo VGA 13h
+# PaintOk.asm – Paint para DOS en modo VGA 13h
 
 **PaintOk** es un programa tipo “Paint” desarrollado en lenguaje ensamblador (sintaxis Intel, TASM) que funciona en modo real de DOS. Utiliza el modo gráfico VGA 13h (320×200 píxeles, 256 colores) y permite dibujar con el mouse, seleccionar colores desde una paleta o con teclas numéricas, ajustar el tamaño del pincel, limpiar la pantalla y salir con ESC.
 
